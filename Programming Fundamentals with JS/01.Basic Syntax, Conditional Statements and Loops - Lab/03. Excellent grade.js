@@ -1,0 +1,20 @@
+function eccellentGrade(grade){
+
+if(grade>=5.50){
+
+console.log("Excellent");
+
+}
+else{
+console.log("Not excellent");
+}
+
+
+
+
+
+
+
+
+}
+eccellentGrade(4.35);
